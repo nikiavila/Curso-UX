@@ -1,0 +1,42 @@
+body{
+    background-color: #fff;
+    font-family: "Montserrat", sans-serif;
+    margin: 0;
+}
+.cards_container{
+    background-color: #FFF2F3;
+    padding: 150px;
+    margin: 0 auto;
+}
+.cards_container h2{
+    font-size: 40px;
+    color: #252B42;
+    padding: 20px;
+}
+.cards_container .white_card{
+    width: 328px;
+    height: 268px;
+    background-color: #fff;
+    padding: 35px 40px 35px 40px;
+    margin: 20px;
+    box-sizing: border-box;
+    display: inline-block;
+    box-shadow: 0 13px 19px 0 rgba(0, 0, 0, 0.1);
+}
+.cards_container .white_card_subtitle{
+    font-size: 16px;
+}
+.cards_container .white_card_text{
+    font-size: 14px;
+    color: #737373;
+}
+.cards_container .white_card hr{
+    width: 50px;
+    height: 2px;
+    background-color: #E74040;
+    border: none;
+    margin: 0;
+}
+.cards_container .white_card img{
+    width: 72px;
+}
